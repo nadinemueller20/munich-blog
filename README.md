@@ -1,7 +1,7 @@
 # munich-blog
 
 <h2>Description</h2>
-In this project I had to design a Website about a blog from Munich with my own work of a Photographer.
+In this project I had to design a Website about a blog from Munich with my own work as a Photographer.
 <br />
 
 
