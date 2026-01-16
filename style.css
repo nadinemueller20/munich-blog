@@ -1,0 +1,84 @@
+/* Navigation Bar */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+  li {
+    float: left;
+    border-right: 1px solid white;
+    
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+  }
+  
+  li a:hover {
+    background-color: black;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+
+  h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-left: 20px;
+  }
+
+  p {
+    margin-left: 20px;
+    
+    
+  }
+
+  body {
+    background-image: url(img/Hintergrund3.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    
+  }
+
+  #navigation {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  #content {
+    width: 620px;
+    margin-left: 20px;
+    margin-top: 30px;
+    background-color: black;
+    opacity: 0.75;
+    padding: 8px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+  }
+
+  .social-media {
+    text-align: right;
+  
+}
+
+  .fa-brands {
+    color: black;
+    
+  }
+  
+ 
+
+  
